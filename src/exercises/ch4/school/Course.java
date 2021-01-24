@@ -10,6 +10,8 @@ public class Course {
     // Worth number of credits
     private int worthNumberOfCredits;
 
+
+
     // Constructors
     public Course(String name, int worthNumberOfCredits) {
         this.name = name;
